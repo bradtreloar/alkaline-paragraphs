@@ -1,0 +1,4 @@
+drupal.alkaline_paragraphs.modal:
+  css:
+    theme:
+      css/alkaline_paragraphs.modal.css: {}

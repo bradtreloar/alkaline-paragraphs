@@ -1,0 +1,10 @@
+{
+  "name": "bradtreloar/alkaline-paragraphs",
+  "description": "Customised paragraphs editing to suit Alkaline sites.",
+  "type": "drupal-module",
+  "license": "GPL-2.0",
+  "require": {
+    "drupal/core": "~8",
+    "drupal/paragraphs": "^1.3"
+  }
+}

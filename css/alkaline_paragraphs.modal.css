@@ -1,0 +1,19 @@
+ul.paragraphs-add-dialog-list button.field-add-more-submit {
+  background-repeat: no-repeat;
+  background-position: 8px center;
+  background-size: auto 36px;
+  padding: 4px 8px 4px 84px;
+  min-height: calc(36px + 8px);
+  text-align: left;
+  border-radius: 3px; }
+  ul.paragraphs-add-dialog-list button.field-add-more-submit .button-label,
+  ul.paragraphs-add-dialog-list button.field-add-more-submit .button-description {
+    margin: 0.25rem 0; }
+  ul.paragraphs-add-dialog-list button.field-add-more-submit .button-description {
+    font-weight: normal; }
+
+.paragraphs-add-dialog-row {
+  padding: 5px; }
+  .paragraphs-add-dialog-row button {
+    width: 100%;
+    min-width: 320px; }

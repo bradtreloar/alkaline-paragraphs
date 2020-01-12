@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function alkaline_paragraphs_theme() {
+  $theme['input__submit__paragraph_action'] = [
+    'template' => 'input--submit--paragraph-action',
+    'base hook' => 'input',
+  ];
+
+	return $theme;
+}
